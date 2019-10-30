@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 ### CDR轉檔 ：
 #### STEP 1 :
 >轉換CDR corpus 所提供的檔案 -> 執行 corpus/two_sent_v3.py
@@ -29,7 +28,4 @@ pred_result/cnn_across_prob_only_across (probability)
 >進入BC5CDR_Evaluation後 執行 ->
 sh eval_relation.sh PubTator data/gold/CDR_TestSet.PubTator.txt /Absolute/path/CNN_Att/convert2pub/cnn_across_only_across  eval/cnn_across_only
 結果會存在BC5CDR_Evaluation/eval/cnn_across_only
-=======
-CNN_ATT_relation_extraction
-hello
->>>>>>> master
+
